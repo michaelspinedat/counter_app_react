@@ -7,6 +7,9 @@
 
 # testing
 /coverage
+/src/tests
+/src/base
+/src/PrimeraApp.js
 
 # production
 /build
